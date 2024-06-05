@@ -1,0 +1,17 @@
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\DocProj.exe
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\DocProj.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\DocProj.deps.json
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\DocProj.runtimeconfig.json
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\DocProj.pdb
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\MySqlConnector.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\DocProj\DocProj\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

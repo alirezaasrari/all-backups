@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SerialCommunicatorWpfApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|d:\\serialcommunicatorwpfapplication\\serialcommunicatorwpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\model\\productionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\model\\productionpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\datacontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\datacontext\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\tools\\packetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\tools\\packetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\model\\terminaldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\model\\terminaldatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\tools\\datagenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\tools\\datagenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\model\\validateloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\model\\validateloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\model\\loginresponsemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\model\\loginresponsemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|D:\\SerialCommunicatorWpfApplication\\serialcommunicatorwpfapplication\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF1167F-3A50-4DF9-BEFD-E30BD3161EA0}|SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication.csproj|solutionrelative:serialcommunicatorwpfapplication\\model\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataGenerators.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Tools\\DataGenerators.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Tools\\DataGenerators.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Tools\\DataGenerators.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Tools\\DataGenerators.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:56:03.999Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\MainWindow.xaml",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\MainWindow.xaml",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T06:58:00.427Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAkwAkCAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:57:41.142Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketGenerator.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Tools\\PacketGenerator.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Tools\\PacketGenerator.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Tools\\PacketGenerator.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Tools\\PacketGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:56:43.277Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\Response.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Model\\Response.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\Response.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Model\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:34:19.006Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginResponseMode.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\LoginResponseMode.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Model\\LoginResponseMode.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\LoginResponseMode.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Model\\LoginResponseMode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T08:19:26.577Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidateLoginResponse.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\ValidateLoginResponse.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Model\\ValidateLoginResponse.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\ValidateLoginResponse.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Model\\ValidateLoginResponse.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:14:10.806Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\DataContext\\Context.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\DataContext\\Context.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\DataContext\\Context.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\DataContext\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:15:08.453Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductionPanel.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\ProductionPanel.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Model\\ProductionPanel.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\ProductionPanel.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Model\\ProductionPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T05:31:56.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TerminalDataModel.cs",
+              "DocumentMoniker": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\TerminalDataModel.cs",
+              "RelativeDocumentMoniker": "SerialCommunicatorWpfApplication\\Model\\TerminalDataModel.cs",
+              "ToolTip": "D:\\SerialCommunicatorWpfApplication\\SerialCommunicatorWpfApplication\\Model\\TerminalDataModel.cs",
+              "RelativeToolTip": "SerialCommunicatorWpfApplication\\Model\\TerminalDataModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T07:54:01.605Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

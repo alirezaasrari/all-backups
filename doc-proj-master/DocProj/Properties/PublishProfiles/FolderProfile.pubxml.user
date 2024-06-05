@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Projects\DocProj\DocProj\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-02-05T05:17:24.9297075Z;True|2024-02-05T07:48:24.1293114+03:30;True|2024-01-28T12:23:32.4425564+03:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

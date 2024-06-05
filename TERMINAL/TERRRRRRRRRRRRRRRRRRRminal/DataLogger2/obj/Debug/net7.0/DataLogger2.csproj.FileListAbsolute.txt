@@ -1,0 +1,14 @@
+D:\Terminal\DataLogger2\bin\Debug\net7.0\DataLogger2.exe
+D:\Terminal\DataLogger2\bin\Debug\net7.0\DataLogger2.deps.json
+D:\Terminal\DataLogger2\bin\Debug\net7.0\DataLogger2.runtimeconfig.json
+D:\Terminal\DataLogger2\bin\Debug\net7.0\DataLogger2.dll
+D:\Terminal\DataLogger2\bin\Debug\net7.0\DataLogger2.pdb
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.AssemblyInfoInputs.cache
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.AssemblyInfo.cs
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.csproj.CoreCompileInputs.cache
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.dll
+D:\Terminal\DataLogger2\obj\Debug\net7.0\refint\DataLogger2.dll
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.pdb
+D:\Terminal\DataLogger2\obj\Debug\net7.0\DataLogger2.genruntimeconfig.cache
+D:\Terminal\DataLogger2\obj\Debug\net7.0\ref\DataLogger2.dll
